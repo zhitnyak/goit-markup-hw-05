@@ -132,10 +132,10 @@ img {
 
 .header-title {
     border-bottom: 1px solid var(--border-color);
-    /* position: fixed;
+    position: fixed;
     width: 100%;
     min-height: 80px;
-    background-color: #fff; */
+    background-color: #fff;
 }
 
 .header-nav-menu {
