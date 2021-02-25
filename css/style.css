@@ -147,7 +147,6 @@ img {
     letter-spacing: 0.02em;
     color: var(--main-text);
 
-    /* position: absolute; */
     transition: color var(--transition-function);
 
 }
